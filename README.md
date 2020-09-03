@@ -2,7 +2,7 @@
 
 📚 :books: - I’m currently learning AI, ML
 
-📫 :mailbox: - Ask me about anything related to Javascript/Python/React/Express/Flask
+📫 :mailbox: - Ask me about anything related to Javascript/Python/Django/React/Express/Flask
 
 📣 :mega: - How to reach me: [@Abdullah](https://www.linkedin.com/in/mamuntheprogrammer/)
 
